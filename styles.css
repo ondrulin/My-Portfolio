@@ -225,7 +225,7 @@ footer ul {
     width: 30%;
 }
 .showcase img {
-    width: 73%;
+    width: 100%;
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -239,7 +239,7 @@ footer ul {
     padding-bottom: 179px;
 }
 .about-section img {
-    width: 75%;
+    width: 100%;
 }
 #about-paragraph{
     padding-top: 116px;
